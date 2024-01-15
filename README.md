@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning about Software Development.
 - 📫 How to reach me: <a href="mailto:rahmansajidur30@gmail.com">rahmansajidur30@gmail.com</a>
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
