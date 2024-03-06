@@ -7,3 +7,4 @@ If you'd like to see student projects, please checkout <a href="https://github.c
 - 🌱 I’m currently a 2nd year Software Development student.
 - 📫 How to reach me: <a href="mailto:rahmansajidur30@gmail.com">rahmansajidur30@gmail.com</a>
 - 😄 Pronouns: He/him
+- 🕸️ My portfolio website (WIP) : me-novaotp.vercel.app
