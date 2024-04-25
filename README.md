@@ -7,4 +7,4 @@ If you'd like to see student projects, please checkout [my student account](http
 - 🌱 I’m currently a 2nd year Software Development student.
 - 📫 How to reach me: <a href="mailto:rahmansajidur30@gmail.com">rahmansajidur30@gmail.com</a>
 - 😄 Pronouns: He/him
-- 🕸️ My portfolio website (WIP) : https://me-olive-sigma.vercel.app
+- 🕸️ My portfolio website (WIP) : https://sajidur.dev
