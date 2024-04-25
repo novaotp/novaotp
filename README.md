@@ -2,9 +2,9 @@
 
 This is my personal account. You'll find different projects that I've created/worked on in my free time.
 
-If you'd like to see student projects, please checkout <a href="https://github.com/edu-rahmsaji">my student account</a>.
+If you'd like to see student projects, please checkout [my student account](https://github.com/edu-rahmsaji).
 
 - 🌱 I’m currently a 2nd year Software Development student.
 - 📫 How to reach me: <a href="mailto:rahmansajidur30@gmail.com">rahmansajidur30@gmail.com</a>
 - 😄 Pronouns: He/him
-- 🕸️ My portfolio website (WIP) : me-novaotp.vercel.app
+- 🕸️ My portfolio website (WIP) : https://me-olive-sigma.vercel.app
