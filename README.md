@@ -2,9 +2,11 @@
 
 This is my personal account. You'll find different projects that I've created/worked on in my free time.
 
-If you'd like to see student projects, please checkout [my student account](https://github.com/edu-rahmsaji).
+- 🌱 Currently a 3rd year Software Development student.
+- 📫 Reach me at <a href="mailto:rahman@sajidur.dev">rahman@sajidur.dev</a>
+- 🕸️ See my personal website/portfolio [here](https://www.sajidur.dev)
+- 🚀 Aiming to become a solutions architect
 
-- 🌱 I’m currently a 3rd year Software Development student.
-- 📫 How to reach me : <a href="mailto:rahman@sajidur.dev">rahman@sajidur.dev</a>
-- 😄 Pronouns : He/him
-- 🕸️ My portfolio website : https://www.sajidur.dev
+## Roadmap.sh
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66fc2de08f6c1220bbc95a11?variant=dark&roadmaps=backend%2Cfull-stack%2Cfrontend%2Cnodejs)](https://roadmap.sh)
