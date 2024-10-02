@@ -9,4 +9,4 @@ This is my personal account. You'll find different projects that I've created/wo
 
 ## Roadmap.sh
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66fc2de08f6c1220bbc95a11?variant=dark&roadmaps=backend%2Cfull-stack%2Cfrontend%2Cnodejs)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66fc2de08f6c1220bbc95a11?variant=light)](https://roadmap.sh)
