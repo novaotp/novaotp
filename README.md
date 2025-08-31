@@ -1,8 +1,12 @@
-# Hi there 👋, I'm Sajidur Rahman
+# Hi there 👋
 
-This is my personal account. You'll find different projects that I've created/worked on in my free time.
+I'm Sajidur Rahman, a swiss student passionate about programming. I'm especially interested in desiging
+beautiful and accessible user interfaces and bringing websites/products to life from start to finish.
 
-- 🌱 Currently a 3rd year Software Development student.
-- 📫 Reach me at <a href="mailto:rahman@sajidur.dev">rahman@sajidur.dev</a>
-- 🕸️ See my personal website/portfolio [here](https://www.sajidur.dev)
-- 🚀 Aiming to become a solutions architect
+Here, you'll find different projects that I've created/worked on in my free time.
+
+About me :
+- Currently a 4th year Software Development student.
+- Reach me at <a href="mailto:rahman@sajidur.dev">rahman@sajidur.dev</a>
+- See [my personal website](https://www.sajidur.dev)
+- Aiming to become a solutions architect one day
