@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I'm Sajidur Rahman, a swiss student passionate about programming. I'm especially interested in desiging
-beautiful and accessible user interfaces and bringing websites/products to life from start to finish.
+I'm Sajidur Rahman, a swiss student passionate about programming. I'm especially interested in designing
+beautiful, accessible, and performant user interfaces, and bringing websites/products to life from start to finish.
 
 Here, you'll find different projects that I've created/worked on in my free time.
 
